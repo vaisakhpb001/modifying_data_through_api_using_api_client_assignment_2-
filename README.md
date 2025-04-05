@@ -88,3 +88,9 @@ Use Mongoose to connect your Express server to the MongoDB Atlas cluster.
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
+
+
+
+
+pass wtFvvXWd1AvvFPuX
+ mongodb+srv://<db_username>:<wtFvvXWd1AvvFPuX>@cluster0.ykkryu9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
